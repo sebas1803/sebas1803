@@ -21,7 +21,7 @@ I'm a Software Engineer Student 👨‍💻 and willing to be a Full Stack Devel
  ![Heroku](https://img.shields.io/badge/Heroku-430098?&style=for-the-badge&logo=Heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📫 Let's get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sebastian-alfaro-mendoza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sebastian-alfaro-mendoza)
 
  or send me an [email](mailto:sebas43243@hotmail.com) .
 
