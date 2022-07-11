@@ -1,6 +1,6 @@
 # Hi, I am Sebastian Alfaro <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> 
 
-I'm a Software Engineer Student 👨‍💻 and willing to be a Full Stack Developer. I am always up to new challenges.
+I'm a Software Engineer student 👨‍💻 willing to be a Full Stack Developer. I am always up to new challenges.
 
 ## ⚡ My Tech Stack ⚡
 
@@ -24,7 +24,5 @@ I'm a Software Engineer Student 👨‍💻 and willing to be a Full Stack Devel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sebastian-alfaro-mendoza)
 
  or send me an [email](mailto:sebas43243@hotmail.com) .
-
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sebas1803/sebas1803)
