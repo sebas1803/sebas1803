@@ -15,8 +15,6 @@ I'm a Software Engineer student 👨‍💻 willing to be a Full Stack Developer
 ![AngularJs](https://img.shields.io/badge/AngularJs-E23237?style=for-the-badge&logo=AngularJs&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
  
- ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
- 
  ![ExpressJS](https://img.shields.io/badge/Express-fff?style=for-the-badge&logo=Express&logoColor=000) 
  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=fff) 
