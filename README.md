@@ -1,4 +1,4 @@
-# Hi, I am Sebastian Alfaro <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> 
+# Hi, I am Sebastian Alfaro <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="35px"> 
 
 I'm a Software Engineer student 👨‍💻 willing to be a Full Stack Developer. I am always up to new challenges.
 
