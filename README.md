@@ -16,7 +16,7 @@ I'm a Software Engineer student 👨‍💻 willing to be a Full Stack Developer
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
  
  ![ExpressJS](https://img.shields.io/badge/Express-fff?style=for-the-badge&logo=Express&logoColor=000)
- ![NestJS](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJS&logoColor=000)
+ ![NestJS](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=fff) 
  ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
