@@ -27,7 +27,7 @@ I'm a Software Engineer student 👨‍💻 willing to be a Full Stack Developer
 
  ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
  ![Github](https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white) 
- ![Gitlab](https://img.shields.io/badge/Gitlab-fff?&style=for-the-badge&logo=GitLab&logoColor=white)
+ ![Gitlab](https://img.shields.io/badge/Gitlab-fff?&style=for-the-badge&logo=GitLab)
  
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
